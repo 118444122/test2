@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         
         <?php
-         echo '<a href="http://startbootstrap-stylish-portfolio-gh-pages/index.html">Html</a>' ;
+         echo '<a href="file:///C:/xampp/htdocs/test2/startbootstrap-stylish-portfolio-gh-pages/">Html</a>' ;
         ?>
     </body>
 </html>
